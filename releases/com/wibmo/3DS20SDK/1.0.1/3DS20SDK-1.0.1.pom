@@ -30,7 +30,6 @@
       <artifactId>rootbeer-lib</artifactId>
       <version>0.0.7</version>
     </dependency>
-    
     <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
